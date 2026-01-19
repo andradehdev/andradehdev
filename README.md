@@ -1,16 +1,27 @@
-## Hi there 👋
+andradeh.dev
+Programador Web e Pawn (SAMP).
 
-<!--
-**andradehdev/andradehdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**o que eu faço:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web**
+* Faço o site principal e as páginas do seu servidor.
+* Crio as telas de notícias, regras e informações.
+* Deixo o visual do projeto com uma cara mais atual.
+
+**SAMP (Pawn)**
+* Mexo na lógica e na organização do script.
+* Ajusto os comandos e funções que você precisar.
+* Limpo os erros do log pra deixar o servidor leve.
+
+---
+
+**linguagens:**
+![Pawn](https://img.shields.io/badge/Pawn-blue?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square) ![JS](https://img.shields.io/badge/JS-yellow?style=flat-square)
+
+---
+
+**contato:**
+Discord: `andradehdev` 🟢
+E-mail: `andradeh.dev@gmail.com`
